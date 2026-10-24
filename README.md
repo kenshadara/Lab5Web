@@ -25,42 +25,42 @@
 ### Latihan 1 — Menampilkan Output
 Menampilkan teks Hello World pada halaman web dan Console.
 
-![Latihan 1](screenshots/1.png)
+![Latihan 1](1.png)
 
 ### Latihan 2 — Alert dan Prompt
 Meminta nama pengguna dan menampilkan pesan sambutan.
 
-![Latihan 2](screenshots/2.png)
+![Latihan 2](2.png)
 
 ### Latihan 3 — Function dan Operasi Aritmetika
 Menghitung penjumlahan, pengurangan, perkalian, pembagian, dan modulus.
 
-![Latihan 3](screenshots/3.png)
+![Latihan 3](3.png)
 
 ### Latihan 4 — Seleksi Kondisi if–else
 Menentukan status kelulusan berdasarkan nilai mahasiswa.
 
-![Latihan 4](screenshots/4.png)
+![Latihan 4](4.png)
 
 ### Latihan 5 — Seleksi switch
 Menampilkan nama bilangan berdasarkan angka yang dimasukkan.
 
-![Latihan 5](screenshots/5.png)
+![Latihan 5](5.png)
 
 ### Latihan 6 — Bilangan Genap atau Ganjil
 Memeriksa bilangan melalui form HTML.
 
-![Latihan 6](screenshots/6.png)
+![Latihan 6](6.png)
 
 ### Latihan 7 — Mengubah Warna Halaman
 Mengubah warna latar halaman melalui tombol.
 
-![Latihan 7](screenshots/7.png)
+![Latihan 7](7.png)
 
 ### Latihan 8 — Checkbox Menu Makanan
 Menghitung total harga berdasarkan menu yang dipilih.
 
-![Latihan 8](screenshots/8.png)
+![Latihan 8](8.png)
 
 ## D. Mini Project — Kalkulator Nilai Mahasiswa
 Program menghitung nilai akhir dengan bobot:
@@ -70,12 +70,12 @@ Program menghitung nilai akhir dengan bobot:
 
 Program juga menentukan predikat dan status kelulusan.
 
-![Mini Project](screenshots/mini%20project.png)
+![Mini Project](miniproject.png)
 
 ## E. Eksperimen Mandiri
 Eksperimen meliputi tabel perkalian 7, function untuk memeriksa bilangan genap, validasi input, dan tombol untuk menyembunyikan atau menampilkan teks.
 
-![Eksperimen Mandiri](screenshots/eksperimen.png)
+![Eksperimen Mandiri](eksperimen.png)
 
 ## F. Cara Menjalankan Program
 1. Buka folder proyek di Visual Studio Code.
