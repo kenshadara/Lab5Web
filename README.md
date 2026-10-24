@@ -70,7 +70,7 @@ Program menghitung nilai akhir dengan bobot:
 
 Program juga menentukan predikat dan status kelulusan.
 
-![Mini Project](miniproject.png)
+![Mini Project](mini_project.png)
 
 ## E. Eksperimen Mandiri
 Eksperimen meliputi tabel perkalian 7, function untuk memeriksa bilangan genap, validasi input, dan tombol untuk menyembunyikan atau menampilkan teks.
