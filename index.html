@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum JavaScript</title>
+</head>
+<body>
+    <h1>Pengenalan JavaScript</h1>
+    <p id="pesan">Konten awal.</p>
+    
+        <h3>Periksa Bilangan Genap atau Ganjil</h3>
+
+        <label for="bilangan">Masukkan bilangan bulat:</label>
+        <input type="number" id="bilangan" step="1">
+
+        <button type="button" onclick="cekBilangan()">Periksa</button>
+
+    <p id="hasilBilangan"></p>
+    
+        <h3>Ubah Warna Latar Halaman</h3>
+
+        <button type="button" onclick="ubahWarnaLatar('lightgreen')">
+            Latar Hijau
+        </button>
+
+        <button type="button" onclick="ubahWarnaLatar('white')">
+            Latar Putih
+        </button>
+
+        <button type="button" onclick="ubahWarnaLatar('lightyellow')">
+            Latar Kuning
+    </button>
+
+    
+    <h3>Daftar Menu Makanan</h3>
+
+    <label>
+        <input type="checkbox" class="menu" value="5000">
+         Ayam Goreng — Rp5.000
+    </label>
+    <br>
+
+    <label>
+        <input type="checkbox" class="menu" value="500">
+        Tempe — Rp500
+    </label>
+    <br>
+
+    <label>
+        <input type="checkbox" class="menu" value="2500">
+        Telur Dadar — Rp2.500
+    </label>
+    <br>
+
+    <p>Total: Rp<span id="total">0</span></p>
+
+
+    <h3>Kalkulator Nilai Mahasiswa</h3>
+
+    <label for="nilaiTugas">Nilai Tugas:</label>
+    <input type="number" id="nilaiTugas" min="0" max="100">
+    <br><br>
+
+    <label for="nilaiUTS">Nilai UTS:</label>
+    <input type="number" id="nilaiUTS" min="0" max="100">
+    <br><br>
+
+    <label for="nilaiUAS">Nilai UAS:</label>
+    <input type="number" id="nilaiUAS" min="0" max="100">
+    <br><br>
+
+    <button type="button" onclick="hitungNilai()">Hitung Nilai</button>
+
+    <p id="hasilNilai"></p>
+
+
+    <h3>Eksperimen Mandiri</h3>
+
+    <button type="button" onclick="tampilkanTabel7()">
+        Tampilkan Tabel Perkalian 7
+    </button>
+    <p id="tabel7"></p>
+
+    <button type="button" onclick="togglePesan()">
+        Sembunyikan / Tampilkan Pesan
+    </button>
+    <p id="pesanToggle">Ini adalah contoh teks yang bisa disembunyikan.</p>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
